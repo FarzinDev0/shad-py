@@ -3,8 +3,7 @@ Its a python script for www.web.shad.ir
 
 Please dont use it for illegal things...
 
-My Website: [click](https://www.farzin-dev.ir)
-
+Its just for learning...
 # Installation
 ```
 git clone https://github.com/FarzinDev0/shad-py
