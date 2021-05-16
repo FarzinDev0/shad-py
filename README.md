@@ -7,6 +7,9 @@ My Website: [click](https://www.farzin-dev.ir)
 
 # Installation
 ```
+git clone https://github.com/FarzinDev0/shad-py
+```
+```
 pip install -r requirements.txt 
 ```
 ```
