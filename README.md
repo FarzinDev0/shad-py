@@ -15,6 +15,8 @@ python main.py
 
 # Follow Me
 My Website: [click](https://www.farzin-dev.ir)
+
 My Instagram: [click](https://instagram.com/Farzin.Dev)
+
 MY Telegram: [click](https://t.me/Farzin_Dev)
 
